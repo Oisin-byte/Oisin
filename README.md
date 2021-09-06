@@ -9,10 +9,10 @@ I mainly focus on python but im begigning to leanr Web Devleopment i also have m
 
 In the future i hope to have as big buisness or maybe work for a company like Microsoft 
 
-Contact Me 📞
+Contact Me �✉
 Email: oisin@digitalbulb.ie
 Website: www.digitalbulb.ie 
-Phone: 087 1657316
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
